@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="content_text">PSSI adalah organisasi induk yang bertugas mengatur kegiatan olahraga sepak bola di Indonesia. PSSI berdiri pada tanggal 19 April 1930 dengan nama awal Persatuan Sepak Raga Seluruh Indonesia. PSSI bergabung dengan FIFA pada tahun 1952, kemudian dengan AFC pada tahun 1954. </string>
+    <string name="ketua_umum">Letnan Jenderal Edy Rahmayadi</string>
+    <string name="waketum">Joko Driyono</string>
+    <string name="kepala_staff">Iwan Budianto</string>
+    <string name="sekjen">Ratu Tisha Destria</string>
+    <string name="bendahara">Berlinton siahaan</string>
+    <string name="waben">Irzan H. Pulungan</string>
+    <string name="komeks">Yunus Nusi
+                        H. Hidayat
+                        Condro Kirono
+                        Gusti Randa
+                        Pieter Tanuri
+                        Juni Ardianto Rachman
+                        S. Sukawijaya
+                        Johar Lin Eng
+                        Refrizal
+                        Dirk Soplanit
+                        Verry Mulyadi
+                        Papat Yunisal</string>
+    <string name="vipbarat">Rp 190.000</string>
+    <string name="katsatubarat">Rp 142.500</string>
+    <string name="katsatutimur">Rp 95.000</string>
+    <string name="katduautara">Rp 57.000</string>
+    <string name="katduaselatan">Rp 57.000</string>
+</resources>
